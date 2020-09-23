@@ -9,6 +9,7 @@
 # Custom
 .zip/**
 .idea/**
+./darbie.js
 
 # User-specific stuff
 .idea/**/workspace.xml
