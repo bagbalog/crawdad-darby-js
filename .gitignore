@@ -10,6 +10,7 @@
 .zip/**
 .idea/**
 ./darbie.js
+darbie.js
 
 # User-specific stuff
 .idea/**/workspace.xml
