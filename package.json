@@ -1,0 +1,20 @@
+{
+  "name": "crawdad-darby",
+  "version": "2.2.8",
+  "description": "",
+  "main": "darbie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs darbie.js -o darbie.min.js -c -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagbalog/crawdad-darby-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagbalog/crawdad-darby-js/issues"
+  },
+  "homepage": "https://github.com/bagbalog/crawdad-darby-js#readme"
+}
